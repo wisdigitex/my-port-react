@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "my-port-react",
+    "build": "wisdigit-port",
+    "my protfolio": "my-port-react"
+  },
+  "targets": {},
+  "etags": {}
+}
