@@ -18,7 +18,7 @@ import {
   FreshJuiceUI,
   ImageSharing,
   OpenAI,
-  PixabayClone,
+  BoogaGame,
   PortfolioFirebase,
   RestaurantClone,
   SocialMedia,
@@ -116,9 +116,9 @@ export const ProjectsData = [
     gitURL: "https://github.com/wisdigitex",
   },
   {
-    id: `pixabayclone-${Date.now()}`,
+    id: `BoogaGame-${Date.now()}`,
     name: "Booga Booga Game",
-    imgSrc: PixabayClone,
+    imgSrc: BoogaGame,
     gitURL: "https://github.com/wisdigitex",
   },
   {
